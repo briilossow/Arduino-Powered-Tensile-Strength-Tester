@@ -59,13 +59,15 @@ Purchase: https://www.adafruit.com/product/1536
 ## Software Dependencies
 
 Note that no software dependencies are required to run the system, as it is self-contained and does not require a computer connection.
-
-For reconstruction,  
+ 
 **HX711 Arduino Library:** https://github.com/bogde/HX711  
 **Adafruit GFX Library:** https://github.com/adafruit/Adafruit-GFX-Library  
 **Adafruit TFTLCD Library:** https://github.com/adafruit/TFTLCD-Library  
-**Elegoo GFX Library:** 
-**Elegoo TFTLCD Library:** 
-**Touch Screen Library:**
 
-If you run into problems using the SD card reader, install the Adafruit SD Library in place of the SD library included with the Arduino IDE to allow software SPI assignments:
+*Note: The Elegoo & Touch Screen libraries are included on the disk that comes with the touch screen - we've added them here for convenient use*
+
+**Elegoo GFX Library:** https://github.com/briilossow/Arduino-Powered-Tensile-Strength-Tester/blob/main/Miscellaneous/Elegoo%20Libraries/Elegoo_GFX.zip  
+**Elegoo TFTLCD Library:** https://github.com/briilossow/Arduino-Powered-Tensile-Strength-Tester/blob/main/Miscellaneous/Elegoo%20Libraries/Elegoo_TFTLCD.zip  
+**Touch Screen Library:** https://github.com/briilossow/Arduino-Powered-Tensile-Strength-Tester/blob/main/Miscellaneous/Elegoo%20Libraries/TouchScreen.zip  
+
+If you run into problems using the SD card reader, install the Adafruit SD Library in place of the SD library included with the Arduino IDE to allow software SPI assignments: https://github.com/adafruit/SD
