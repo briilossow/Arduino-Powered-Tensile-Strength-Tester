@@ -1,0 +1,32 @@
+------------- System Use -------------
+
+1. Ensure the microSD card is properly inserted into the slot
+
+2. Plug system into laptop for power using the USB cable, or directly into wall using the power adapter
+
+3. Load clamps with material to be tested
+
+4. Press "Calibrate" on the touch screen and increase or decrease the weight until satisfied, then press "Done" to apply the change
+
+5. Press "Start" to begin taking measurements
+
+6. Once the screen informs the user to begin, pull rope at a slow, controlled speed to stretch the material
+	6a. If approaching the max load capacity of 20kg, the system will warn the user by use of a buzzer speaker
+
+7. Once data collection is complete, touch the screen to return to main menu
+
+8. Repeat steps 3-7 for each sample tested
+
+9. Once all testing is complete, press "Export" on the touch screen and remove the microSD card when prompted.
+
+10. Insert the card into a laptop or computer and open the included CSV files in Excel or other programs for analysis
+
+11. Calculate Material Area & Stress
+	11a. Please calculate material cross-sectional area in meters
+	11b. Stress = Applied Force / Material Area
+
+12. Plot Stress-Strain Curve using Excel or other data analysis program 
+
+13. Calculate ultimate tensile strength and Young's modulus using the graphs
+
+14. Repeat steps 11-13 for each sample tested
