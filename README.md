@@ -59,8 +59,7 @@ Purchase: https://www.adafruit.com/product/1536
 ## Software Dependencies
 
 Note that no software dependencies are required to run the system, as it is self-contained and does not require a computer connection.
-
-For reconstruction,  
+ 
 **HX711 Arduino Library:** https://github.com/bogde/HX711  
 **Adafruit GFX Library:** https://github.com/adafruit/Adafruit-GFX-Library  
 **Adafruit TFTLCD Library:** https://github.com/adafruit/TFTLCD-Library  
